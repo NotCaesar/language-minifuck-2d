@@ -1,6 +1,6 @@
 {
   "name": "language-minifuck-2d",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Minifuck-2D language support in Atom.",
   "keywords": [
     "language",
