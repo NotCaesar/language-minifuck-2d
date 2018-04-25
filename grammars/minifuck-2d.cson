@@ -1,0 +1,25 @@
+# Minifuck-2D language support for Atom by Caesar.
+'scopeName': 'source.minifuck-2d'
+'name': 'Minifuck-2D'
+'fileTypes': [
+  'mft'
+  'minifucktd'
+]
+'patterns': [
+  {
+    'match': '<'
+    'name': 'storage.minifuck-2d'
+  }
+  {
+    'match': '.'
+    'name': 'function.minifuck-2d'
+  }
+  {
+    'match': '!'
+    'name': 'keyword.operator.minifuck-2d'
+  }
+  {
+    'match': '@'
+    'name': 'entity.minifuck-2d'
+  }
+]
